@@ -1,3 +1,4 @@
+//Write a dart program to generate multiplication tables of 1-9.
 import 'dart:io';
 
 void main() {

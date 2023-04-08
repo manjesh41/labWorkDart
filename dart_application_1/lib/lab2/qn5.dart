@@ -2,10 +2,10 @@ import 'dart:io';
 
 void main() {
   List<String> friends = [
-    'Alice',
-    'Bob',
-    'Charlie',
-    'Dave',
+    'Anjal',
+    'bhes',
+    'bikendra',
+    'Bibek',
     'Emily',
     'Frank',
     'Gina'

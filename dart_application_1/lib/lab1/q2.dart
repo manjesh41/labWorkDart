@@ -1,3 +1,4 @@
+//Write a dart program to check whether a character is a vowel or consonant.
 void main() {
   String word = 'a';
   vowelcon(word);

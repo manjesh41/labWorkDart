@@ -1,3 +1,4 @@
+//Write a dart program to check if the number is odd or even.
 void main() { 
   int number = 1;
   oddEven(number);
